@@ -1,0 +1,15 @@
+{
+  "name": "testeblip",
+  "version": "1.0.0",
+  "description": "Teste Blip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Caetano",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.0"
+  }
+}
